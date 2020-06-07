@@ -7,4 +7,6 @@ def multiply(x,y):
 def division(x,y):
     if y!=0:
         print ("Division: ", x/y)
+    else:
+        print("Division : 0")
 
